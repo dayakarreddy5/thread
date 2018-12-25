@@ -9,6 +9,7 @@ public class CloneTest {
 	public static void main(String[] args) throws CloneNotSupportedException {
 		
 		//deep cloning
+		
 		Person p=new Person();
 		
 		p.setId(1);
