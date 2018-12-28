@@ -15,7 +15,7 @@ public class ExceptionController {
 		} catch (DatavalidationsException e) {
 			
 			System.out.println(e.getMessage()+"::"+e.getCause());
-			//System.out.println(e.getMessage()+"::"+e.getCause());
+			System.out.println(e.getMessage()+"::"+e.getCause());
 
 		}
 	}
