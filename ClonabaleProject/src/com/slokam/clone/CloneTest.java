@@ -13,7 +13,7 @@ public class CloneTest {
 		Person p=new Person();
 		
 		p.setId(1);
-		p.setName("daya");
+		p.setName("sai");
 		p.setAge(24);
 		
 		
