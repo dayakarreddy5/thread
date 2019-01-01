@@ -4,6 +4,7 @@ public class MyCustomer {
 
 	
 	private long amount;
+	
 
 	public MyCustomer(long amount) {
 		super();
